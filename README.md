@@ -5,10 +5,10 @@
 - 🖥 I'm looking for a coding internship 
 - 🧗‍♂️ Fun fact: I love rock climbing and videogames!
 
-#Languages
+## Languages I've used
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,godot,bash,c,python,sql,blender,css,html,java,js" />
   </a>
 </p>
 
