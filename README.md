@@ -8,12 +8,16 @@
 ## Languages I've used
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,godot,bash,c,python,sql,blender,css,html,java,js" />
+    <img src="https://skillicons.dev/icons?i=git,godot,bash,c,python,postgres,blender,css,html,java,js,php" />
   </a>
 </p>
 
-#Connect with me:
-https://www.linkedin.com/in/ciaran-coyne-0b6233202/
+## Connect with me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/ciaran-coyne-0b6233202/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 <!--
 **C22416392/C22416392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
