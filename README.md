@@ -13,7 +13,13 @@
 </p>
 
 ## Connect with me:
-<img src="https://skillicons.dev/icons?i=linkedin" href="https://www.linkedin.com/in/ciaran-coyne-0b6233202/"/>
+<a href="https://www.linkedin.com/in/ciaran-coyne-0b6233202/">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+<a href="ciaran.coyne101@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 
 <!--
 **C22416392/C22416392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
