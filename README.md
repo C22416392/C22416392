@@ -7,12 +7,18 @@
 
 ## Games I've worked on
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src=![Deadzone](https://github.com/C22416392/C22416392/assets/124162678/847de67a-0184-41f8-a412-cce2c63ecd15) />
+  <a href="https://youtu.be/eFXnF16qb4w?si=zg9Q_vzFGHK4h7cj">
+    <img src="https://github.com/C22416392/C22416392/assets/124162678/847de67a-0184-41f8-a412-cce2c63ecd15" />
+  </a>
+  <a href="https://youtu.be/03_p1_Hj9X0?si=Jeg0D-UOsk9PVqgP">
+    <img src="https://github.com/C22416392/C22416392/assets/124162678/489dbeb9-0a9a-493a-a0ac-15cab4ec6361" />
+  </a>
+  <a href="https://youtu.be/pvPNeR1LM4w?si=MOpaGXCKzN1J0z35&t=97">
+    <img src="https://github.com/C22416392/C22416392/assets/124162678/02f63487-417e-4d1b-9abb-ece7c1223a66" />
   </a>
 </p>
 
-https://youtu.be/03_p1_Hj9X0?si=Jeg0D-UOsk9PVqgP
+
 
 ## Languages I've used
 <p align="center">
