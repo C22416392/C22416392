@@ -8,7 +8,7 @@
 ## Languages I've used
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,godot,bash,c,python,postgres,blender,css,html,java,js,php" />
+    <img src="https://skillicons.dev/icons?i=godot,blender,c,python,postgres,java,git,bash,css,html,js,php&perline=6" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/ciaran-coyne-0b6233202/">
   <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-<a href="ciaran.coyne101@gmail.com">
+<a href="mailto: ciaran.coyne101@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
