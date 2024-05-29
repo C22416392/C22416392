@@ -1,5 +1,19 @@
-## Hi there 👋
+## Hi 👋, I'm Ciaran
 
+- 🔭 I’m working on a game called Sumo Strikers, which recently won an award!
+- 🌱 I’m currently learning Blender & Godot
+- 🖥 I'm looking for a coding internship 
+- 🧗‍♂️ Fun fact: I love rock climbing and videogames!
+
+#Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+#Connect with me:
+https://www.linkedin.com/in/ciaran-coyne-0b6233202/
 <!--
 **C22416392/C22416392** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
