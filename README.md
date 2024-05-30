@@ -16,7 +16,7 @@
     <img src="https://github.com/C22416392/C22416392/assets/124162678/df52501a-5c91-4a45-9d38-1c785a0f05b2" width=49% />
   </a>
   
-  <a href="https://youtu.be/pvPNeR1LM4w?si=MOpaGXCKzN1J0z35&t=97">
+  <a href="https://youtu.be/pvPNeR1LM4w?si=MOpaGXCKzN1J0z35&t=99">
     <img src="https://github.com/C22416392/C22416392/assets/124162678/02f63487-417e-4d1b-9abb-ece7c1223a66" width=49% />
   </a>
 </p>
