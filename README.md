@@ -2,7 +2,6 @@
 
 - 🔭 I’m working on a game called Sumo Strikers, which recently won an award!
 - 🌱 I’m currently learning Blender & Godot
-- 🖥 I'm looking for a coding internship 
 - 🧗‍♂️ Fun fact: I love rock climbing and videogames!
 
 ## Games I've worked on
